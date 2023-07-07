@@ -1,0 +1,6 @@
+.idea/*
+!.idea/runConfigurations
+
+logs/
+
+www/config.php

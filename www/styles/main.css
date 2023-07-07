@@ -1,0 +1,40 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+main {
+    display: flex;
+    justify-content: space-around;
+}
+h3 {
+    font-family: Arial;
+    font-size: 15px;
+    padding: 15px 0;
+}
+input[type="text"]{
+    width: 300px;
+    margin: 10px 0;
+    padding: 5px 2px;
+}
+textarea {
+    width: 305px;
+    margin: 10px 0;
+}
+input[type="submit"]{
+    padding: 10px;
+    margin-right: 10px;
+}
+input[type="reset"]{
+    padding: 10px;
+}
+caption {
+    text-align: left;
+}
+article {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 50px;
+}
+table {
+    margin-top: 10px;
+}
